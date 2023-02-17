@@ -1,0 +1,13 @@
+.button-load{
+   width: 100%;
+   height: 30%;
+   background-color: crimson;
+   color: white;
+   border: none;
+   cursor: pointer; 
+}
+
+.button-load:disabled{
+    background-color: #888;
+    cursor:not-allowed ;
+}
